@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jdSkull
-- I am always interested in always learning new knowledge.
+- I'm always interested in learning more.
 - At the moment I'm learning C# and mySql with professor Nelio Alves.
 <!---
 jdSkull/jdSkull is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
